@@ -6,3 +6,6 @@ fruit:
   - apple
   - lemon
   - pears
+
+vegetables:
+  - carrots
